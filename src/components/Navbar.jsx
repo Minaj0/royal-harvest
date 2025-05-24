@@ -87,6 +87,13 @@ export const Navbar = () => {
                             >
                                 About
                             </a>
+                            <a
+                                href="#"
+                                className='hover:text-main text-sec font-main text-xl font-extrabold py-2 px-4'
+                                onClick={toggleMenu}
+                            >
+                                Contact
+                            </a>
 
                             {/* Search Bar - Mobile */}
                             <div className="relative mt-2">
