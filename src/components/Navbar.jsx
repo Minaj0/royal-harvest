@@ -17,7 +17,7 @@ export const Navbar = () => {
                     {/* Logo */}
                     <div className="logo">
                         <img
-                            src="src/assets/rh.svg"
+                            src="/royal-harvest/public/rh.svg"
                             height="60px"
                             width="180px"
                             alt="Company Logo"
