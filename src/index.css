@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import 'tailwindcss';
+@plugin "daisyui";
+
+
+@theme {
+    --color-main: #EAE4D5;
+    --color-sec: #537D5D;
+    --font-main:"Poiret One", sans-serif;
+}

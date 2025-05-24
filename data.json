@@ -1,0 +1,17 @@
+[
+  {
+    "title": "California Almonds",
+    "description": "Crunchy, nutritious, and naturally rich in protein and healthy fats, our California almonds are sourced directly from trusted growers. Perfect as a snack or for culinary use, they offer superior taste and consistent quality.",
+    "image": "src/assets/WhatsApp Image 2025-05-23 at 20.05.06.jpeg"
+  },
+  {
+    "title":"Cashew Nuts",
+    "description":"Deliciously creamy and packed with essential nutrients, our premium cashew nuts are ideal for snacking, cooking, or baking. Carefully selected and hygienically packed to preserve their freshness and flavor.",
+    "image":"src/assets/WhatsApp Image 2025-05-23 at 20.06.12.jpeg"
+  },
+  {
+    "title":"Green Cardamom",
+    "description":"Known as the “Queen of Spices”, our handpicked green cardamom pods are aromatic, flavorful, and perfect for enhancing both sweet and savory dishes. A staple in traditional cuisine and a favorite in every kitchen.",
+    "image":"src/assets/WhatsApp Image 2025-05-23 at 20.07.32.jpeg"
+  }
+]
