@@ -8,7 +8,7 @@ export const Footer = () => {
                     {/* Logo and Tagline */}
                     <div className="flex items-center gap-4">
                         <img
-                            src="/royal-harvest/public/rh.svg"
+                            src="/royal-harvest/rh.svg"
                             alt="Company Logo"
                             className="h-12 md:h-16 w-auto"
                         />
