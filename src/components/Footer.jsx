@@ -10,7 +10,7 @@ export const Footer = () => {
                         <img
                             src="/royal-harvest/rh.svg"
                             alt="Company Logo"
-                            className="h-12 md:h-16 w-auto"
+                            className="h-5 md:h-10 w-auto"
                         />
                         <span className="font-main font-bold text-lg md:text-xl">
                             Since 2025. Serving the Best!
@@ -20,9 +20,8 @@ export const Footer = () => {
                     {/* Quick Links */}
                     <div className="flex flex-wrap justify-center gap-4 md:gap-8 lg:text-2xl font-main">
                         <a href="#" className="hover:text-white transition-colors">Home</a>
-                        <a href="#" className="hover:text-white transition-colors">Products</a>
-                        <a href="#" className="hover:text-white transition-colors">About</a>
-                        <a href="#" className="hover:text-white transition-colors">Contact</a>
+                        <a href="#about" className="hover:text-white transition-colors">About</a>
+                        <a href="#contact" className="hover:text-white transition-colors">Contact</a>
                     </div>
 
                     {/* Social Media */}

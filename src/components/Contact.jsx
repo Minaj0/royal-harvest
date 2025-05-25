@@ -68,7 +68,7 @@ const ContactPage = () => {
     };
 
     return (
-        <div className="font-main text-sec py-12 px-4 sm:px-6 lg:px-8">
+        <div className="font-main text-sec py-12 px-4 sm:px-6 lg:px-8" id='contact'>
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                 <div className="p-8">
                     <div className="text-center mb-8">

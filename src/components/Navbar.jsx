@@ -21,7 +21,7 @@ export const Navbar = () => {
                             height="60px"
                             width="180px"
                             alt="Company Logo"
-                            className="h-[60px] w-auto"
+                            className="h-[37px] w-auto"
                         />
                     </div>
 
@@ -29,9 +29,8 @@ export const Navbar = () => {
                     <div className="hidden md:flex items-center space-x-8">
                         <div className="links text-sec font-main text-xl gap-8 flex font-extrabold">
                             <a href="#" className='hover:text-main transition-colors'>Home</a>
-                            <a href="#" className='hover:text-main transition-colors'>Products</a>
-                            <a href="#" className='hover:text-main transition-colors'>About</a>
-                            <a href="#" className='hover:text-main transition-colors'>Contact</a>
+                            <a href="#about" className='hover:text-main transition-colors'>About</a>
+                            <a href="#contact" className='hover:text-main transition-colors'>Contact</a>
                         </div>
 
                         {/* Search Bar - Desktop */}
@@ -74,21 +73,14 @@ export const Navbar = () => {
                                 Home
                             </a>
                             <a
-                                href="#"
-                                className='hover:text-main text-sec font-main text-xl font-extrabold py-2 px-4'
-                                onClick={toggleMenu}
-                            >
-                                Products
-                            </a>
-                            <a
-                                href="#"
+                                href="#about"
                                 className='hover:text-main text-sec font-main text-xl font-extrabold py-2 px-4'
                                 onClick={toggleMenu}
                             >
                                 About
                             </a>
                             <a
-                                href="#"
+                                href="#contact"
                                 className='hover:text-main text-sec font-main text-xl font-extrabold py-2 px-4'
                                 onClick={toggleMenu}
                             >
